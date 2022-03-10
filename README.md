@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog - Dating site for dogs
